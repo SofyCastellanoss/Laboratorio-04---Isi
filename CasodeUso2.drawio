@@ -1,0 +1,96 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Página-1" id="YiNaQUhNf56WUwudTFGv">
+    <mxGraphModel dx="2628" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n78v6igjmWnXuN3duf-7-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Caso de Uso #1:&amp;nbsp;&lt;span id=&quot;docs-internal-guid-87547785-7fff-2a78-174b-ce35b0d1b861&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Programar Oferta Académica y Asignar Cupos&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="580" x="-310" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n78v6igjmWnXuN3duf-7-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="170" width="80" x="-500" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="n78v6igjmWnXuN3duf-7-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="170" width="80" x="170" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="n78v6igjmWnXuN3duf-7-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Administrativo" vertex="1">
+          <mxGeometry height="30" width="60" x="-490" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="n78v6igjmWnXuN3duf-7-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Docentes" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="n78v6igjmWnXuN3duf-7-12" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.41;" value="" vertex="1">
+          <mxGeometry height="100" width="290" x="-370" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="n78v6igjmWnXuN3duf-7-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span id=&quot;docs-internal-guid-2368fbf6-7fff-060a-4cc6-3861501ea912&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Seleccionar (); //programa y periodo lectivo&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="260" x="-355" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n78v6igjmWnXuN3duf-7-16" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.39;" value="" vertex="1">
+          <mxGeometry height="80" width="310" x="-370" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="n78v6igjmWnXuN3duf-7-22" edge="1" parent="1" source="n78v6igjmWnXuN3duf-7-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" target="n78v6igjmWnXuN3duf-7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n78v6igjmWnXuN3duf-7-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span id=&quot;docs-internal-guid-df4c0e38-7fff-a8db-689c-ad442cb15107&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Asignar (); //aula, horario y curso&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="300" x="-370" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="n78v6igjmWnXuN3duf-7-18" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=-180;base=20;position2=1;" value="" vertex="1">
+          <mxGeometry height="80" width="220" x="-370" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="n78v6igjmWnXuN3duf-7-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span id=&quot;docs-internal-guid-4a601e78-7fff-58eb-6454-d5e585ca89da&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;publicar (); //la oferta académica&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="260" x="-390" y="490" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sxM7ZuF_elNepY1cJ2ke" name="Página-2">
+    <mxGraphModel dx="1681" dy="776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dCx_rzCfvD7cy_lrgG6X-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="170" width="80" x="73" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="dCx_rzCfvD7cy_lrgG6X-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="170" width="80" x="743" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="dCx_rzCfvD7cy_lrgG6X-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Estudiante" vertex="1">
+          <mxGeometry height="30" width="60" x="83" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="dCx_rzCfvD7cy_lrgG6X-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Sistema" vertex="1">
+          <mxGeometry height="30" width="60" x="753" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="dCx_rzCfvD7cy_lrgG6X-5" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.41;" value="" vertex="1">
+          <mxGeometry height="100" width="290" x="203" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="dCx_rzCfvD7cy_lrgG6X-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span id=&quot;docs-internal-guid-2368fbf6-7fff-060a-4cc6-3861501ea912&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Consultar (); //Orden de Pago&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="260" x="218" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="dCx_rzCfvD7cy_lrgG6X-7" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.39;" value="" vertex="1">
+          <mxGeometry height="80" width="310" x="203" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="dCx_rzCfvD7cy_lrgG6X-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span id=&quot;docs-internal-guid-df4c0e38-7fff-a8db-689c-ad442cb15107&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Confirmar (); //Transacción&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="300" x="203" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="dCx_rzCfvD7cy_lrgG6X-10" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=-180;base=20;position2=0.36;" value="" vertex="1">
+          <mxGeometry height="96" width="243" x="464" y="488" as="geometry" />
+        </mxCell>
+        <mxCell id="dCx_rzCfvD7cy_lrgG6X-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;font color=&quot;#212121&quot; face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="260" x="455.5" y="531" as="geometry" />
+        </mxCell>
+        <mxCell id="dCx_rzCfvD7cy_lrgG6X-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span id=&quot;docs-internal-guid-c03d28d0-7fff-1247-cea3-267ce84b2c29&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Caso de Uso #2: Registrar y Validar Pago de Matrícula Financiera&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="106" width="478" x="247" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dCx_rzCfvD7cy_lrgG6X-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Recibe confirmación ();" vertex="1">
+          <mxGeometry height="30" width="162" x="509" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="dCx_rzCfvD7cy_lrgG6X-14" parent="1" style="shape=wedgeCallout;whiteSpace=wrap;html=1;tipX=0.296;tipY=0.977;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Genera comprobante ();&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="168" x="582" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="dCx_rzCfvD7cy_lrgG6X-15" parent="1" style="shape=wedgeCallout;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Actualiza estado de Estudiante ();&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="193" x="823" y="325" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
